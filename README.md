@@ -1,4 +1,4 @@
-# HomeSitePrediction
+# Purchase Prediction using Stacked models 
 
 ## Why is this relevant?
 Homesite, a leading provider of homeowner’s insurance, wants to know which of their customers will purchase an insurance given a certain quote about the price, to be able to 
